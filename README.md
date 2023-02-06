@@ -1,4 +1,4 @@
-Implementation of a Crust Protocol node with substrate.
+Implementation of a DC Protocol node with substrate.
 
 ## License
 
